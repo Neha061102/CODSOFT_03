@@ -34,4 +34,4 @@ recommended_movie = recommend_movie(user_input,movies)
 if recommended_movie:
     print(f"We recommend you these movies : {recommended_movie}")
 else:
-    print("Sorry! no recommendatio found.")    
+    print("Sorry! no recommendation found.")    
